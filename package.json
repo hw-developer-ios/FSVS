@@ -2,7 +2,7 @@
 	"name": "fsvs-hw",
   	"title": "fsvs-hw",
   	"description": "fsvs-hw",
-  	"version": "0.1",
+  	"version": "1.0",
   	"main": "asserts/js/bundle.js",
 	"devDependencies": {
 		"gulp"				: "~3.8.7",
